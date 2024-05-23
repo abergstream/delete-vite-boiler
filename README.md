@@ -7,7 +7,7 @@
 ## Use
  - Go to your newly created vite-project in terminal
  - ```node DIR_PATH\delete-vite-boiler\```
- - E.g ```node 'D:\delete-boiler\'``` 
+ - E.g ```node 'D:\delete-vite-boiler\'``` 
 
 ## What does it do?
 
