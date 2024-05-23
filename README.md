@@ -1,7 +1,5 @@
 ﻿# delete-vite-boiler
 
-For now there are no checks if the files exists or not. If the files doesn't exist the index and app.jsx will be created in the directory you run the script from
-
 This script deletes
  - public\vite.svg
  - src\assets\react.svg
