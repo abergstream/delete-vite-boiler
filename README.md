@@ -1,5 +1,15 @@
 ﻿# delete-vite-boiler
 
+## Install
+ - Clone project
+ - npm install
+
+## Use
+ - Go to your newly created vite-project in terminal
+ - ```node DIR_PATH\delete-vite-boiler\```
+ - E.g ```node 'D:\delete-boiler\'``` 
+
+
 This script deletes
  - public\vite.svg
  - src\assets\react.svg
