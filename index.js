@@ -3,7 +3,7 @@ import { writeFile, unlink, access, constants } from "fs/promises";
 // Files and contents to change
 const AppFile = "src\\App.jsx";
 const AppContent =
-  "function App() {\n  (\n    <>\n    </>\n  )\n}\n\nexport default App";
+  "function App() {\n return (\n    <>\n    </>\n  )\n}\n\nexport default App";
 
 const indexFile = "index.html";
 const indexContent =
