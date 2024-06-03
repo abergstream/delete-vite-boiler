@@ -40,5 +40,5 @@ And changes
 
 #### After
 
-![image](https://github.com/abergstream/delete-vite-boiler/assets/64410668/87fe1f43-8e69-4da8-8b07-f22647094e63)
+![image](https://github.com/abergstream/delete-vite-boiler/assets/64410668/dca7719e-0da6-4c8b-ab21-a1c467f626c0)
 
